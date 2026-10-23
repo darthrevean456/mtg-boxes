@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Card Box</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header id="top">
+  <a class="back" href="index.html" aria-label="All boxes">&#8592;</a>
+  <div class="title">
+    <h1 id="boxName">Loading…</h1>
+    <div id="stats" class="stats"></div>
+  </div>
+</header>
+
+<div class="controls">
+  <input id="q" type="search" placeholder="Search name or text… e.g. flying, draw a card" autocomplete="off">
+  <div class="row">
+    <div id="types" class="chips"></div>
+  </div>
+  <div class="row small">
+    <label>Sort
+      <select id="sort">
+        <option value="name">Name</option>
+        <option value="mv">Mana value</option>
+        <option value="type">Type</option>
+        <option value="price">Price (high first)</option>
+      </select>
+    </label>
+    <label class="check"><input type="checkbox" id="foilOnly"> Foils only</label>
+    <span id="count" class="count"></span>
+  </div>
+</div>
+
+<main id="grid" class="grid"></main>
+<div id="msg" class="msg"></div>
+
+<div id="modal" class="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true">
+    <button class="close" id="close" aria-label="Close">&times;</button>
+    <div class="big">
+      <img id="mImg" alt="">
+      <button id="flip" class="flip" hidden>&#8635; Flip card</button>
+    </div>
+    <div class="info">
+      <h2 id="mName"></h2>
+      <div id="mType" class="mtype"></div>
+      <div id="mText" class="mtext"></div>
+      <div id="mMeta" class="mmeta"></div>
+    </div>
+  </div>
+</div>
+
+<input type="file" id="filePick" accept=".csv" hidden>
+
+<script src="boxes.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

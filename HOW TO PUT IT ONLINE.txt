@@ -1,0 +1,48 @@
+MY CARD BOXES WEBSITE — HOW TO PUT IT ONLINE (free, with GitHub Pages)
+
+WHAT'S IN THIS FOLDER
+  index.html   - home page with all your boxes
+  box.html     - the card page for one box
+  app.js, style.css, boxes.js - the code that runs the pages
+  data/        - your ManaBox exports (red.csv, white.csv, blue.csv, green.csv)
+
+---------------------------------------------------------------
+PUT IT ONLINE (one time, about 10 minutes)
+---------------------------------------------------------------
+1. Go to github.com and make a free account.
+2. Click "+" (top right) > "New repository".
+   - Name it:  mtg-boxes
+   - Tick "Public", then click "Create repository".
+3. Click "uploading an existing file".
+   Drag in EVERYTHING from this website folder, including the data folder.
+   Click "Commit changes".
+4. Go to Settings > Pages.
+   Under "Branch" pick "main" and "/ (root)", then click Save.
+5. Wait 1-2 minutes. Your site will be at:
+      https://YOUR-USERNAME.github.io/mtg-boxes/
+
+YOUR QR CODE LINKS (one per box):
+      https://YOUR-USERNAME.github.io/mtg-boxes/box.html?b=red
+      https://YOUR-USERNAME.github.io/mtg-boxes/box.html?b=white
+      https://YOUR-USERNAME.github.io/mtg-boxes/box.html?b=blue
+      https://YOUR-USERNAME.github.io/mtg-boxes/box.html?b=green
+  -> Send these to Claude and it will make the QR labels.
+
+---------------------------------------------------------------
+ADDING CARDS TO A BOX LATER
+---------------------------------------------------------------
+1. Add the cards to that box's list in ManaBox and export it again.
+2. Rename the export to match: red.csv / white.csv / blue.csv / green.csv
+3. On GitHub, open the "data" folder > "Add file" > "Upload files",
+   drag the new file in (it replaces the old one) > "Commit changes".
+4. Done. The QR label on the box stays the same.
+
+ADDING A NEW BOX (e.g. RED 2 or BLACK 1)
+- Put its export in the data folder (e.g. black.csv).
+- Open boxes.js and copy one line, changing the id, name, colour and file.
+- Upload both to GitHub.
+
+NOTES
+- Card pictures and text come from Scryfall automatically.
+- If you open box.html straight from your laptop (not online), it will ask
+  you to choose the CSV file. That's normal; online it loads by itself.

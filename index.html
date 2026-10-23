@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Card Boxes</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="hero">
+  <h1>My Card Boxes</h1>
+  <p>Tap a box to see every card inside it.</p>
+</div>
+<div id="boxes" class="boxes"></div>
+<script src="boxes.js"></script>
+<script>
+  document.getElementById("boxes").innerHTML = BOXES.map(b =>
+    `<a class="boxlink" href="box.html?b=${b.id}" style="background:${b.colour};color:${b.text}">
+       <h2>${b.name}</h2><p>View cards &rarr;</p></a>`).join("");
+</script>
+</body>
+</html>
