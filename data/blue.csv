@@ -34,16 +34,16 @@ Elvenking's Harper,HOB,The Hobbit,38,normal,common,1,115214,9c50656d-c74a-4e90-9
 "Bilbo, Luckwearer // Burglar's Plot",HOB,The Hobbit,32,normal,uncommon,1,112930,8bff0aa6-16d9-4c83-b598-ef00a3b33d2c,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.811Z
 "Bilbo Baggins, Burglar // Take a Glance",HOB,The Hobbit,34,normal,common,1,115057,6a109b3e-9f5b-4625-abb7-6b992c10530b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.812Z
 "Jace, Reality Sculptor",FRA,Reality Fracture,216,normal,rare,1,117007,74087795-0b38-4fd2-9841-147583baca41,0.59,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.815Z
-"Yuriko, Hope from the Shadows",FRA,Reality Fracture,226,normal,uncommon,1,116592,45e81487-8b8c-480b-922a-eaa9edc7201d,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.818Z
-Undulating Witness,FRA,Reality Fracture,45,normal,common,1,116840,0adbb4b2-a142-48da-8f4b-fa91529dbac4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.819Z
-Infinite Coursework,FRA,Reality Fracture,31,normal,common,1,116634,a5988272-faaa-463d-a0a1-a8e96b946bad,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.822Z
-Precise Redaction,FRA,Reality Fracture,362,normal,uncommon,1,116781,4b15b2c1-c3fd-474e-872f-464083a0e0bf,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.823Z
-Unsummon,FRA,Reality Fracture,46,normal,common,1,116949,ddad9f16-52d5-49de-82b0-b1a5294a9c44,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.824Z
-"Ruric Thar, Biomagus",FRA,Reality Fracture,219,normal,uncommon,1,116564,00af4e87-5576-4a43-9422-4c35b2b66775,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.826Z
-Mindseeker Oculus,FRA,Reality Fracture,33,normal,common,1,116967,f5324741-353a-4a70-adb2-b631b00806dd,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.830Z
-Diviner of Victory // Unwind History,FRA,Reality Fracture,28,normal,rare,1,116433,0853bb80-8664-432a-8457-600139fd96d5,0.37,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.831Z
-Plan for All Outcomes,FRA,Reality Fracture,35,normal,uncommon,1,116933,c4effc17-0d0e-423a-b5f2-597ea6c71f67,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.834Z
-Divining Duelist,FRA,Reality Fracture,29,normal,common,1,116904,960c7335-331d-488b-be68-2ad1c1c695dc,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.836Z
+"Yuriko, Hope from the Shadows",FRA,Reality Fracture,226,normal,uncommon,2,116592,45e81487-8b8c-480b-922a-eaa9edc7201d,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.818Z
+Undulating Witness,FRA,Reality Fracture,45,normal,common,4,116840,0adbb4b2-a142-48da-8f4b-fa91529dbac4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.819Z
+Infinite Coursework,FRA,Reality Fracture,31,normal,common,4,116634,a5988272-faaa-463d-a0a1-a8e96b946bad,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.822Z
+Precise Redaction,FRA,Reality Fracture,362,normal,uncommon,2,116781,4b15b2c1-c3fd-474e-872f-464083a0e0bf,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.823Z
+Unsummon,FRA,Reality Fracture,46,normal,common,3,116949,ddad9f16-52d5-49de-82b0-b1a5294a9c44,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.824Z
+"Ruric Thar, Biomagus",FRA,Reality Fracture,219,normal,uncommon,3,116564,00af4e87-5576-4a43-9422-4c35b2b66775,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.826Z
+Mindseeker Oculus,FRA,Reality Fracture,33,normal,common,4,116967,f5324741-353a-4a70-adb2-b631b00806dd,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.830Z
+Diviner of Victory // Unwind History,FRA,Reality Fracture,28,normal,rare,2,116433,0853bb80-8664-432a-8457-600139fd96d5,0.37,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.831Z
+Plan for All Outcomes,FRA,Reality Fracture,35,normal,uncommon,2,116933,c4effc17-0d0e-423a-b5f2-597ea6c71f67,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.834Z
+Divining Duelist,FRA,Reality Fracture,29,normal,common,3,116904,960c7335-331d-488b-be68-2ad1c1c695dc,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.836Z
 Rona's Vortex,DMU,Dominaria United,63,normal,uncommon,1,71737,bdf96533-f28a-4465-893b-0c9394d5b8d7,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.839Z
 Volshe Tideturner,DMU,Dominaria United,77,normal,common,1,71829,ea61871b-9295-4ea0-86ef-e7a11e23bda8,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.840Z
 Containment Membrane,OGW,Oath of the Gatewatch,52,normal,common,1,9330,49dd3963-a4d7-4992-b6f8-753996390bbf,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.841Z
@@ -81,10 +81,22 @@ Bold Biochemist,MSH,Marvel Super Heroes,48,normal,common,1,113542,10644127-3da0-
 Long Lake Nuisance,HOB,The Hobbit,45,normal,common,2,115240,cd5af94d-6321-4834-8e5f-e5d0261b3ef3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.777Z
 "Gandalf, Wandering Wizard",HOB,The Hobbit,41,normal,common,5,115043,1f8403a2-849c-4a59-b0ed-c8803995028d,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.804Z
 Confusticate and Bebother,HOB,The Hobbit,35,normal,common,2,115071,9de48690-e5ae-495a-addf-305f1db7ec21,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.814Z
-"Hapatra, the Desert Frost",FRA,Reality Fracture,215,normal,uncommon,2,116751,85faaa9d-4656-4365-871d-7cba53ed0996,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.816Z
-Semester Foreseer // Peer Review,FRA,Reality Fracture,39,normal,common,2,116608,7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.817Z
-Countersculpt,FRA,Reality Fracture,25,normal,uncommon,2,116439,145b928d-a7ff-4fe5-ae4d-bbae7b1d955b,0.52,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.820Z
+"Hapatra, the Desert Frost",FRA,Reality Fracture,215,normal,uncommon,3,116751,85faaa9d-4656-4365-871d-7cba53ed0996,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.816Z
+Semester Foreseer // Peer Review,FRA,Reality Fracture,39,normal,common,5,116608,7e5a640b-fd88-4b5a-9dfc-1d8f5a5cef41,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.817Z
+Countersculpt,FRA,Reality Fracture,25,normal,uncommon,4,116439,145b928d-a7ff-4fe5-ae4d-bbae7b1d955b,0.52,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.820Z
 "Proft, Consulting Detective",FRA,Reality Fracture,218,normal,uncommon,2,116642,b8466593-40fe-4557-89b2-760c1c92087b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.821Z
-Surveillance Phantasm,FRA,Reality Fracture,42,normal,common,3,116626,9df8a06d-c7de-49af-8c01-06dca3dfef4b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.827Z
-Icy Reception,FRA,Reality Fracture,30,normal,common,2,116423,8d754b96-5e44-45af-9c7a-b0da59fbe4c3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.833Z
-Lake-town Mariners // Gone Fishing,HOB,The Hobbit,44,normal,uncommon,2,114996,4202a678-a5f4-47f9-9c18-e88ab9ad20a4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.869Z
+Surveillance Phantasm,FRA,Reality Fracture,42,normal,common,6,116626,9df8a06d-c7de-49af-8c01-06dca3dfef4b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.827Z
+Icy Reception,FRA,Reality Fracture,30,normal,common,6,116423,8d754b96-5e44-45af-9c7a-b0da59fbe4c3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.833Z
+Lake-town Mariners // Gone Fishing,HOB,The Hobbit,44,normal,uncommon,2,114996,4202a678-a5f4-47f9-9c18-e88ab9ad20a4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:19:26.869Z
+Cruel Calculations,FRA,Reality Fracture,26,normal,rare,1,116674,f76c4d8e-3e1f-4264-99af-1b8adb9a06be,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.360Z
+Variable Chaser // Arc of Fortune,FRA,Reality Fracture,47,normal,rare,1,116820,e3afedb1-bf9d-4e31-9700-433514cc29b1,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.368Z
+Theorist's Proxy,FRA,Reality Fracture,44,normal,rare,1,116475,710302ca-c4be-4069-8ce1-f531414c74e9,0.52,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.369Z
+"Traxos, Academy Guardian",FRA,Reality Fracture,222,normal,uncommon,1,116913,a349800f-b634-4e74-a9d9-185df37ad909,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.371Z
+"Arni, Humble Scribe",FRA,Reality Fracture,211,normal,uncommon,1,116897,8e3a2239-9348-4639-9318-e9e35b2cf86b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.375Z
+Perfected Theory,FRA,Reality Fracture,34,normal,uncommon,1,116264,d0ecae06-bc5a-4886-84df-c2900816f226,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.389Z
+Way of the Mind Sculptor,FRA,Reality Fracture,224,normal,uncommon,1,116832,5838af68-66c3-4fe8-ab89-0a1721b0cfeb,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.393Z
+Protege's Awakening,FRA,Reality Fracture,37,normal,common,3,116492,a08c7ec2-4c6a-4db2-85a7-41afe8731523,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.358Z
+Cryotheory Adept,FRA,Reality Fracture,27,normal,common,3,116907,9ba1f7ce-3404-4932-9795-22967707f762,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.362Z
+Way of the Cryomancer,FRA,Reality Fracture,223,normal,uncommon,2,116483,838b0efb-7398-4df9-8fdf-b8af43b47938,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.364Z
+"Yargle, Goliath of Otaria",FRA,Reality Fracture,225,normal,uncommon,2,116672,f45ba926-6496-4bd4-96eb-663946d56bbf,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.378Z
+"Tetsuko Umezawa, Fugitive",FRA,Reality Fracture,221,normal,uncommon,2,116583,3983d71e-3c23-4b36-b331-08e0707d8245,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T18:42:51.384Z
