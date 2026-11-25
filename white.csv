@@ -5,7 +5,7 @@ Hexhaven Battalion,FRA,Reality Fracture,12,normal,common,4,116868,3b6ac80e-c726-
 Repurposed Enforcer,FRA,Reality Fracture,19,normal,rare,2,116454,35000e93-85d3-44f8-976a-5918ee4c71e0,0.37,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.535Z
 Surgical Precision,FRA,Reality Fracture,22,normal,common,5,116656,d3acf176-ef02-4729-88c4-0f0dfbfdada4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.537Z
 Ghalta the Immovable,FRA,Reality Fracture,197,normal,uncommon,3,116499,a9f3aa55-908f-42db-8135-4201433df850,0.39,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.538Z
-Predictive Preparations,FRA,Reality Fracture,16,normal,common,3,116877,50a0e5f0-3c39-4f16-9a73-eec8ef71f12e,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.539Z
+Predictive Preparations,FRA,Reality Fracture,16,normal,common,4,116877,50a0e5f0-3c39-4f16-9a73-eec8ef71f12e,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.539Z
 "Saheeli, Consul of Oversight",FRA,Reality Fracture,203,normal,uncommon,2,116979,07572be0-6610-493c-a21e-14b78e9805c9,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.540Z
 Guiding Hydra,FRA,Reality Fracture,11,normal,rare,1,117014,a53eb840-039d-4c45-b701-d58cb26b1a6c,0.44,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.542Z
 Way of the Healer,FRA,Reality Fracture,207,normal,uncommon,2,116597,50326a2a-7e10-464b-a97e-e880bda0558c,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.543Z
@@ -16,7 +16,7 @@ Germinate Recruits,FRA,Reality Fracture,334,normal,rare,2,117030,dcb1b131-fee7-4
 Refute Destiny,FRA,Reality Fracture,18,normal,uncommon,3,116777,2c588954-c6eb-4aae-a2fa-0651ccf2d90a,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.549Z
 Shatterwing Pegasus,FRA,Reality Fracture,21,normal,common,5,116664,e29095de-59ec-4562-ba8e-73f952e457ae,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.550Z
 "Thalia, the Survivor",FRA,Reality Fracture,205,normal,uncommon,3,116609,80226231-9e70-430e-aabc-f262f70b9226,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.551Z
-Campus Crier,FRA,Reality Fracture,4,normal,common,3,116469,6047b14c-91d5-4f8e-af3f-057a541e2546,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.556Z
+Campus Crier,FRA,Reality Fracture,4,normal,common,4,116469,6047b14c-91d5-4f8e-af3f-057a541e2546,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.556Z
 Generous Revival,FRA,Reality Fracture,8,normal,uncommon,2,116418,f82f181b-a43b-4cec-b8f6-f6c1dd4c64fd,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.557Z
 "Captain Mar-Vell, Space-Born",MSH,Marvel Super Heroes,12,normal,uncommon,1,113360,27924c2f-756c-42af-9830-18a5a2735137,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.562Z
 Crowd of True Believers,MSH,Marvel Super Heroes,14,normal,common,1,113684,4b2fffb8-d538-4772-8fbc-9bec3b9c4d9c,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.563Z
@@ -83,7 +83,7 @@ Dwarven Provisioner,HOB,The Hobbit,9,normal,common,1,115144,1f9a61a1-454e-4d5b-a
 Moment of Glory,HOB,The Hobbit,21,normal,common,1,115130,0a6a6ff0-b1cd-4b06-bd31-612690094e0e,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.652Z
 Blossom-Blessed Angel // Seed Suture,FRA,Reality Fracture,3,normal,common,5,116999,5e77fbf0-9d1f-4e7d-a02e-43065d11b0d9,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.536Z
 Fateshaper Aspirant,FRA,Reality Fracture,6,normal,common,4,116965,f0c8400d-824f-4d79-84bc-7615a0deb831,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.547Z
-Unflinching Hortimancer,FRA,Reality Fracture,23,normal,common,5,116885,63f82985-c9c2-4d0a-ac4f-560166bebd9f,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.553Z
+Unflinching Hortimancer,FRA,Reality Fracture,23,normal,common,6,116885,63f82985-c9c2-4d0a-ac4f-560166bebd9f,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.553Z
 Esgaroth Garrison,HOB,The Hobbit,13,normal,common,4,115177,573f67b0-6ce8-4857-a703-4a5728640736,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.558Z
 Lake-town Toymaker,HOB,The Hobbit,19,normal,uncommon,2,115185,67304269-c595-4cf0-8dbf-fcb2e9e01fe2,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.559Z
 Vow to Erebor,HOB,The Hobbit,31,normal,common,5,115210,8d4f3eb5-fedf-45d6-8bd8-aacbe0ce33b2,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.560Z
@@ -96,9 +96,9 @@ Lake-town Lookout,HOB,The Hobbit,18,normal,common,3,115138,178c4cf6-6b11-40e4-96
 Kíli the Resourceful,HOB,The Hobbit,17,normal,rare,2,115097,1805532f-6d99-47d0-9529-5f5831a7fdc8,1.49,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.636Z
 Magnificent End,HOB,The Hobbit,20,normal,common,2,115170,430c8916-1167-400b-9cad-d301f59d5e5d,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.638Z
 Celebrate the Mountain-king,HOB,The Hobbit,7,normal,uncommon,2,115169,42fbd61d-e1a6-465d-b1a3-f5ee0869d3af,0.26,false,false,false,near_mint,en,false,GBP,2026-10-23T19:28:43.642Z
-Prophesied End,FRA,Reality Fracture,17,normal,uncommon,1,116531,1f95399a-9766-4f3d-aa6a-ece55e0530d9,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.569Z
+Prophesied End,FRA,Reality Fracture,17,normal,uncommon,2,116531,1f95399a-9766-4f3d-aa6a-ece55e0530d9,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.569Z
 Gideon's Memorial,FRA,Reality Fracture,198,normal,rare,1,116603,768c0e64-9907-417a-a763-c836fdf36883,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.581Z
-Kindred Judgment,FRA,Reality Fracture,13,normal,rare,1,116791,6f9f814b-8249-4e48-a05e-4c84060fe6fb,1.11,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.584Z
+Kindred Judgment,FRA,Reality Fracture,13,normal,rare,2,116791,6f9f814b-8249-4e48-a05e-4c84060fe6fb,1.24,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.584Z
 Way of the Mentor,FRA,Reality Fracture,208,normal,uncommon,1,116740,1a59d5b1-12d6-486b-bd29-ca371359addd,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.598Z
 Your Fate Ends Here,FRA,Reality Fracture,24,normal,uncommon,2,117045,25000a17-b701-4d69-b2ef-2c74029199d3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.549Z
 Academic Ascent,FRA,Reality Fracture,2,normal,common,3,116476,730d8c28-1e58-4b8e-89e9-445d154d2e83,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.554Z
@@ -106,4 +106,16 @@ Academic Ascent,FRA,Reality Fracture,2,normal,common,3,116476,730d8c28-1e58-4b8e
 Memory Trap,FRA,Reality Fracture,15,normal,common,3,116452,2f5345ae-4489-4d05-b2d5-c71285254f05,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.564Z
 Koth of the Homestead,FRA,Reality Fracture,199,normal,uncommon,2,116802,920703fd-2a2f-454b-8829-af8f2afda4f4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.567Z
 "Teyo, Lightshield Expert",FRA,Reality Fracture,204,normal,uncommon,2,116786,5f7521d7-9f1f-4f03-b2ea-dd2a1b1e4e5b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.582Z
-"Yoshimaru, Beloved Companion",FRA,Reality Fracture,209,normal,uncommon,2,116779,384f3b7d-8d7f-41bf-bebd-64e8babe7fca,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.587Z
+"Yoshimaru, Beloved Companion",FRA,Reality Fracture,209,normal,uncommon,2,116779,384f3b7d-8d7f-41bf-bebd-64e8babe7fca,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:08:33.587Z
+"Lyra, Archangel of Dawn",FRA,Reality Fracture,201,normal,rare,1,116616,86a3866e-68a8-402c-baf0-1908e98e3995,1.37,false,false,false,near_mint,en,false,GBP,2026-11-25T17:17:29.509Z
+Tactical Officer,TRK,Star Trek,38,normal,common,1,115396,317704a8-a3c2-400c-bbe0-2cbc6fe10710,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.072Z
+Shuttle Ace,TRK,Star Trek,36,normal,common,1,115409,559f838a-24ac-4f18-8c40-23cfde6f65cc,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.073Z
+Hologram Janeway,TRK,Star Trek,21,normal,uncommon,1,118226,02d29047-a7b8-43fb-8b90-b35ba34da5f9,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.074Z
+Set Phasers to . . .,TRK,Star Trek,34,normal,common,1,114681,54dbf416-973d-46c8-b9be-e863283d328b,,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.075Z
+"U.S.S. Excelsior, Cutting Edge",TRK,Star Trek,44,normal,uncommon,1,118232,de62b452-3780-4eeb-8163-f44176495615,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.076Z
+Emergency Medical Hologram,TRK,Star Trek,15,normal,common,1,115455,dda6f965-cbdf-4dbc-b0b1-00c27e32f5f2,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.077Z
+"Brad Boimler, Eager Ensign",TRK,Star Trek,5,normal,uncommon,1,114703,a6bf1525-2212-46d0-ad4d-1dbaa2e3b3cd,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.078Z
+Pet Sehlat,TRK,Star Trek,28,normal,common,1,117831,477a6a46-7fda-4666-87d9-a35c953dd94d,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.079Z
+DOT-7 Repair Squad,TRK,Star Trek,12,normal,common,1,115468,fca1528c-84cc-42d2-99ae-9f10f0e28743,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.080Z
+"Miles O'Brien, Transporter Ops",TRK,Star Trek,24,normal,rare,1,118018,e4f041b3-e785-45ba-9a7e-33878614d3b0,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.081Z
+Malfunctioning Holodeck,TRK,Star Trek,22,normal,common,1,115381,0faeffee-bb07-4b9d-8cdd-e9731bbd2396,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:29:06.082Z

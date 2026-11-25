@@ -96,7 +96,7 @@ Void Extrapolator // Omit Variables,FRA,Reality Fracture,70,normal,common,1,1168
 Terminal Criticism,FRA,Reality Fracture,68,normal,uncommon,1,116795,7ebd7e38-b27c-4c6e-aaea-e8ee5ba5e5df,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.494Z
 "Teyo, Diamondblade Mage",FRA,Reality Fracture,236,normal,uncommon,1,116769,100c3b67-0c92-4224-b5ed-67789c612df7,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.496Z
 "Tinybones, Pocket Nuisance",FRA,Reality Fracture,237,normal,uncommon,1,114747,2f47ddf7-35b6-4205-8045-f057914c5f64,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.497Z
-"Danitha, Spear of Agony",FRA,Reality Fracture,227,normal,uncommon,1,116600,6489814b-3d10-423e-988c-324740d36748,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.498Z
+"Danitha, Spear of Agony",FRA,Reality Fracture,227,normal,uncommon,2,116600,6489814b-3d10-423e-988c-324740d36748,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.498Z
 Gideon the Oathless,FRA,Reality Fracture,230,normal,rare,1,116650,c985b0d1-25bd-4069-aab7-a566ff27a8f6,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.502Z
 "Winter, Tormented Loner",FRA,Reality Fracture,240,normal,uncommon,1,116622,9670f754-f41f-45ac-8e8b-025ad2c0f66b,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.503Z
 Rewrite Regrets,FRA,Reality Fracture,62,normal,uncommon,1,116459,453cfde7-c460-4b55-9472-b714e16f24bb,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.512Z
@@ -104,7 +104,7 @@ Rewrite Regrets,FRA,Reality Fracture,62,normal,uncommon,1,116459,453cfde7-c460-4
 "Massacre Girl, Most Wanted",FRA,Reality Fracture,234,normal,uncommon,2,117010,9028d31f-9c41-47e3-885b-6a869bca8178,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.517Z
 Extrapolate the Impossible,FRA,Reality Fracture,55,normal,rare,1,116982,17fb6538-493c-41aa-ad13-3e63d3ad3317,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.520Z
 Cast Away Doubt,FRA,Reality Fracture,51,normal,common,1,116415,3b5b28a4-0abd-4dc2-9856-c9a8d27f6a2d,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.524Z
-Extended Absence,FRA,Reality Fracture,54,normal,common,4,116961,eb4b6ed8-782e-4473-abc9-d50bf2275c6a,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.380Z
+Extended Absence,FRA,Reality Fracture,54,normal,common,5,116961,eb4b6ed8-782e-4473-abc9-d50bf2275c6a,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.380Z
 Silence the Echo,FRA,Reality Fracture,66,normal,common,4,116669,f1d274db-751b-4414-a38d-762198168e91,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.381Z
 Toxic Abomination,DMU,Dominaria United,112,normal,common,2,71860,f435329e-6de7-4b05-ba70-cb63d121116e,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.420Z
 Bloodcrazed Socialite,VOW,Innistrad: Crimson Vow,288,normal,common,2,64338,9df22639-7e98-43a1-801e-cbf882558c53,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.423Z
@@ -114,10 +114,25 @@ Front Porch Sentries,HOB,The Hobbit,67,normal,common,2,115094,07bfc803-e11b-47ab
 Way of the Necromancer,FRA,Reality Fracture,239,normal,uncommon,2,116628,a0ff9689-ea49-4fff-b37c-4abbaeb0f73d,0.44,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.486Z
 Last Gasp,FRA,Reality Fracture,56,normal,common,3,116577,2381d123-d8c7-4822-98fe-b1c365beb5ed,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.488Z
 Rank Rat,FRA,Reality Fracture,61,normal,common,3,116876,4ff6da82-d7dd-4b59-b7e6-30670cea7169,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.490Z
-Screeching Soulbreaker,FRA,Reality Fracture,65,normal,common,2,116748,738667a1-c184-43ea-829f-49fbb69b6fc0,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.499Z
+Screeching Soulbreaker,FRA,Reality Fracture,65,normal,common,3,116748,738667a1-c184-43ea-829f-49fbb69b6fc0,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.499Z
 Rampart Hunter,FRA,Reality Fracture,60,normal,common,3,116673,f4a80225-7459-4151-86bb-8fdea31c39a6,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.500Z
 Theoretical Necromancer,FRA,Reality Fracture,69,normal,common,2,116952,e36a7908-1e22-494b-adb4-e72ac0974d62,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.501Z
 Multiply by Zero,FRA,Reality Fracture,58,normal,uncommon,2,117011,90d684a4-9639-4792-8760-2011a7a85370,0.96,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.504Z
 "Yargle, Glutton of Urborg",FRA,Reality Fracture,241,normal,uncommon,2,116565,04c816fb-5951-4db1-8834-ed3f0b36bfe1,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.506Z
 Apex Witchstalker,FRA,Reality Fracture,48,normal,common,2,116941,cd56f047-6bdc-4e83-8a7c-923ebad26302,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.508Z
-Solve for Disappointment,FRA,Reality Fracture,67,normal,common,2,116480,7beaa8c9-1a2c-4c88-b579-91e371d8d9e3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.509Z
+Solve for Disappointment,FRA,Reality Fracture,67,normal,common,3,116480,7beaa8c9-1a2c-4c88-b579-91e371d8d9e3,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T19:38:32.509Z
+"Gallia, Tragic Host",FRA,Reality Fracture,228,normal,uncommon,1,116595,498fa810-8522-4020-b773-52ad404c9f65,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:18:15.119Z
+"Proft, Sinister Mastermind",FRA,Reality Fracture,235,normal,uncommon,1,116655,d36b0e06-cb82-4c48-bf35-e76f109116f6,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:18:15.120Z
+Eject the Warp Core,TRK,Star Trek,105,normal,common,1,115375,04a479be-8093-4775-a5d9-8b0e1683bf12,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.073Z
+Collation Trimatrix,TRK,Star Trek,98,normal,rare,1,118792,92c19351-0592-4269-90f4-2475d5529400,1.37,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.074Z
+Resistance Is Futile,TRK,Star Trek,125,normal,uncommon,1,115423,81d88257-466d-4729-862f-591885b3d875,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.075Z
+Battle-Scarred Survivalist,TRK,Star Trek,95,normal,common,1,115450,c567253e-a2ee-45de-b3c6-3aeafbf8237b,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.076Z
+Relentless Drednok,TRK,Star Trek,124,normal,common,1,115451,ce538db8-373d-4554-821e-cd96e795e37a,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.077Z
+Bat'leth,TRK,Star Trek,426,foil,uncommon,1,117970,bf6c66c7-4795-4ab0-be98-65c771a7ef01,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.078Z
+"He's Dead, Jim",TRK,Star Trek,114,normal,common,1,115395,2c309b0d-94b4-405e-be6c-18b407323e51,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.079Z
+Storied Veteran,TRK,Star Trek,129,normal,uncommon,1,117814,3b80995c-8e9a-4a9c-8854-59439a58166f,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.080Z
+Cha'DIch Investigator,TRK,Star Trek,97,normal,common,1,115382,16281200-4660-4871-afd2-d4720e6a3197,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.081Z
+"General Chang, Cold Warrior",TRK,Star Trek,109,normal,rare,1,115485,c46a0910-215c-4757-8bfe-7eca479157a5,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.082Z
+Tell Me What You See,TRK,Star Trek,132,normal,uncommon,1,118211,e339c8fb-26d2-4514-aeb7-014274df0c9c,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.083Z
+A Good Day to Die,TRK,Star Trek,111,normal,common,1,115457,e2b350b2-0eda-4c2b-b9d6-b58ab4848545,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.084Z
+Tenacious Drone,TRK,Star Trek,133,normal,common,1,118748,206ae042-09af-4fc1-8441-69cecdd087de,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:24:42.085Z

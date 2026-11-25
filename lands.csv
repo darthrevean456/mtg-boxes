@@ -22,7 +22,7 @@ Deserted Beach,FRA,Reality Fracture,176,normal,rare,1,116465,56dae4c4-3e71-4a32-
 Dedicated Commons,FRA,Reality Fracture,175,normal,common,1,116865,3223e5db-5cc4-42f9-ae9e-ff58abc7c390,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.521Z
 Plains,FRA,Reality Fracture,382,normal,common,1,116479,796b72af-5078-427d-b566-9bccad17090f,1.34,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.522Z
 Plains,FRA,Reality Fracture,383,normal,common,1,116466,57999b70-74c6-415a-aef8-3afc546e7557,1.34,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.523Z
-Fatehold Annex,FRA,Reality Fracture,177,normal,common,1,116878,5140f962-62f3-40fd-a322-44896c7e2613,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.527Z
+Fatehold Annex,FRA,Reality Fracture,177,normal,common,2,116878,5140f962-62f3-40fd-a322-44896c7e2613,0.27,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.527Z
 Swamp,FRA,Reality Fracture,390,normal,common,1,116526,f080e0af-cd86-488b-968e-e69b0fa0fe93,1.34,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.528Z
 Thriving Isle,TLE,Avatar: The Last Airbender Eternal,263,normal,common,1,108247,94f93e5f-dba0-4079-8e6a-dd5d6fe6afa4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.529Z
 Wind-Scarred Crag,TDM,Tarkir: Dragonstorm,271,normal,common,1,104286,4912e4d0-b16a-4aa6-a583-3430d26bd591,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.530Z
@@ -49,8 +49,8 @@ Perilous Landscape,FRC,Reality Fracture Commander,78,normal,common,1,116976,fec4
 Surveillance Room,MSH,Marvel Super Heroes,274,normal,common,1,113861,8fb51fbb-ab7f-4484-a3c9-dc50cb6f2756,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.569Z
 Evolving Wilds,DSC,Duskmourn: House of Horror Commander,274,normal,common,1,99386,e524216c-ed35-49a3-868f-7ad0a0027a80,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.570Z
 Terramorphic Expanse,OTC,Outlaws of Thunder Junction Commander,336,normal,common,1,93765,9c418bac-c1d1-4fbf-aaca-7bc36b3913c4,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.571Z
-Forest,FRA,Reality Fracture,289,normal,common,18,117053,613bc075-2fe4-421f-bfec-3786a5e37797,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.583Z
-Plains,FRA,Reality Fracture,282,normal,common,3,116944,d5955c78-83ec-43d1-b7d6-214ab5d32ff2,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.464Z
+Forest,FRA,Reality Fracture,289,normal,common,19,117053,613bc075-2fe4-421f-bfec-3786a5e37797,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.583Z
+Plains,FRA,Reality Fracture,282,normal,common,4,116944,d5955c78-83ec-43d1-b7d6-214ab5d32ff2,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.464Z
 Plains,FRA,Reality Fracture,281,normal,common,21,116914,a4eaecb8-066a-4c72-aa5d-5ed0614ba537,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.465Z
 Plains,HOB,The Hobbit,194,normal,common,2,112914,24dc369c-020a-4115-a4bb-d60a44de64e3,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.470Z
 Swamp,FRA,Reality Fracture,286,normal,common,2,116836,05465ed0-f511-4e6f-9561-49bf6608fb80,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.473Z
@@ -72,4 +72,11 @@ Elvenking's Halls,HOB,The Hobbit,182,normal,common,3,115086,cd477096-41b1-4907-9
 Goblin-town,HOB,The Hobbit,183,normal,common,3,115088,d76df9d0-56cf-4351-a5e8-e6ae6fc791d1,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.558Z
 Hobbit Hole,HOB,The Hobbit,184,normal,common,2,115038,0365c439-30bf-4d32-a791-166751bdb996,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.566Z
 Iron Hills,HOB,The Hobbit,185,normal,common,2,115063,78045c43-5cbe-48ff-837d-e7c6baac2937,0.26,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.572Z
-Island,FRA,Reality Fracture,284,normal,common,8,116854,1c1b233f-ade1-40c8-a91f-e9d8cc63179b,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.574Z
+Island,FRA,Reality Fracture,284,normal,common,8,116854,1c1b233f-ade1-40c8-a91f-e9d8cc63179b,0.37,false,false,false,near_mint,en,false,GBP,2026-10-26T20:17:03.574Z
+Unexplored Territory,TRK,Star Trek,303,normal,common,1,117986,ca1e60f1-11a9-4bb8-9f6e-5b652b49c517,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.838Z
+Mountain,TRK,Star Trek,324,normal,common,1,115459,e5927fd9-dfaf-462e-9128-44b806e45178,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.839Z
+Risa,TRK,Star Trek,293,normal,common,1,117985,c89e7680-9868-4fea-9aaf-6af03bfa0692,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.840Z
+Cardassia Prime,TRK,Star Trek,280,normal,common,1,117998,d634424f-9148-46a5-95e3-4965a9226bb4,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.841Z
+Romulus,TRK,Star Trek,294,normal,common,1,117783,1bce111b-b07c-4589-9b6d-f0b5f320808c,0.27,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.842Z
+Q Continuum,TRK,Star Trek,290,normal,rare,1,118822,cd424080-e8ad-4a56-a820-20d8534fba31,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.843Z
+Forest,TRK,Star Trek,325,normal,common,1,115454,dce15387-4114-4b3e-91aa-5b42b45c44ac,0.38,false,false,false,near_mint,en,false,GBP,2026-11-25T17:31:46.844Z
